@@ -12,3 +12,7 @@
   $ pip install beautifulsoup4.
   
   $ python setup.py install.
+
+
+#Testing Installed software
+  $ import beautifulsoup4 as bs4
