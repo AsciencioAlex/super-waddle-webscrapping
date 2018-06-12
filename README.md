@@ -4,7 +4,11 @@
 
   # Installations for Linux
   $ apt-get install python-bs4 (for Python 2)
+  
   $ apt-get install python3-bs4 (for Python 3)
+  
   $ easy_install beautifulsoup4.
+  
   $ pip install beautifulsoup4.
+  
   $ python setup.py install.
